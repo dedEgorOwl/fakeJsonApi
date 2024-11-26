@@ -1,4 +1,4 @@
-[
+{
     "users": [
         {
             "name": "Egor",
@@ -19,7 +19,7 @@
             "name": "Leonid",
             "surname": "Burikin",
             "age": "20"
-        },
+        }
     ],
     "challenges": [
         {
@@ -27,4 +27,4 @@
             "answer": "like that"
         }
     ]
-]
+}
