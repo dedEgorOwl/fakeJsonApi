@@ -1,21 +1,25 @@
 {
     "users": [
         {
+            "id": 0,
             "name": "Egor",
             "surname": "Lebedev",
             "age": "19"
         },
         {
+            "id": 1,
             "name": "Ilya",
             "surname": "Lebedev",
             "age": "8"
         },
         {
+            "id": 2,
             "name": "Roman",
             "surname": "Lasarev",
             "age": "20"
         },
         {
+            "id": 3,
             "name": "Leonid",
             "surname": "Burikin",
             "age": "20"
@@ -23,8 +27,29 @@
     ],
     "challenges": [
         {
+            "id": 0,
             "title": "how?",
             "answer": "like that"
+        },
+        {
+            "id": 1,
+            "title": "why?",
+            "answer": "because"
+        },
+        {
+            "id": 2,
+            "title": "when?",
+            "answer": "now"
+        },
+        {
+            "id": 3,
+            "title": "who?",
+            "answer": "me"
+        },
+        {
+            "id": 4,
+            "title": "where?",
+            "answer": "here"
         }
     ]
 }
