@@ -1,0 +1,30 @@
+[
+    "users": [
+        {
+            "name": "Egor",
+            "surname": "Lebedev",
+            "age": "19"
+        },
+        {
+            "name": "Ilya",
+            "surname": "Lebedev",
+            "age": "8"
+        },
+        {
+            "name": "Roman",
+            "surname": "Lasarev",
+            "age": "20"
+        },
+        {
+            "name": "Leonid",
+            "surname": "Burikin",
+            "age": "20"
+        },
+    ],
+    "challenges": [
+        {
+            "title": "how?",
+            "answer": "like that"
+        }
+    ]
+]
